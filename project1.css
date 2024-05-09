@@ -1,0 +1,228 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    /* border: 4px solid red; */
+    background-image: url(./images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100vh;       
+}
+.history{
+    text-align: center;
+    padding-top: 80px;
+}
+.history img{
+    width: 100px;
+    height: 100px;
+}
+.btns{
+    margin-top: 20px ;
+}
+.ios-btn{
+    background-color: #00c1a6;
+    color: white;
+    width: 150px;
+    height: 45px;
+    border-radius: 30px;
+    border: none;
+}
+.mac-btn{
+    background-color: rgb(18, 192, 251);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    width: 150px;
+    height: 45px;
+    
+}
+.ios-btn:hover{
+   color: chartreuse;
+}
+.mac-btn:hover{
+    color: cornflowerblue;
+}
+.snippets{
+    text-align: center;
+    margin-top: 40px;
+    line-height: 30px;
+}
+.screen{
+    /* border: 4px solid blue; */
+    width: 50%;
+    height: 100%;
+}
+.screen img{
+    width: 105%;
+    height: 100%;
+    padding-top:10px;
+    
+}
+.details{
+    margin-left: 55%;
+    position: relative;
+    bottom: 380px;
+    font-style: italic;
+    font-weight: bold;
+}
+.clipboard{
+    text-align: center;
+}
+.div-img{
+    text-align: center;
+    height: 100px;
+}
+.second-img{
+    margin-top: 8%;
+    width: 50%;
+}
+.super-charge{
+    margin-top: 35%;
+    text-align: center;
+    padding-bottom: 10%;
+}
+.black-list{
+    position: relative;
+    left: 10%;
+    bottom: 1020px;
+   }
+   .text-img{
+    position: relative;
+    left: 50%;
+    bottom: 1050px;
+   }
+   .preview-img{
+    position: relative;
+    left: 73%;
+    bottom: 1080px;
+   }
+.crassin{
+    padding-top: 3%;
+    margin-left: 8%;
+}
+.text-snippets{
+    position: relative;
+    left: 3%;
+    bottom: 130px;
+    text-align: center;
+}
+.sneak-prestan{
+    margin-left: 70%;
+    position: relative;
+    bottom: 220px;
+}
+.google-img{
+    position: relative;
+    left: 10%;
+}
+.ibm-img{
+    position: relative;
+    left: 15%;
+}
+.microsoft-img{
+    position: relative;
+    left: 20%;
+}
+.hp-img{
+    position: relative;
+    left: 25%;
+}
+.vector-img{
+    position: relative;
+    left: 35%;
+}
+.clipboard-os{
+    margin-top: 10%;
+    text-align: center;
+}
+.btn-s{
+    margin-top: 20px ;
+    text-align: center;
+}
+.ios-btn-s{
+    background-color: #00c1a6;
+    color: white;
+    width: 150px;
+    height: 45px;
+    border-radius: 30px;
+    border: none;
+    margin-top: 20px;
+}
+.mac-btn-s{
+    background-color: rgb(18, 192, 251);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    width: 150px;
+    height: 45px;
+    
+}
+.ios-btn-s:hover{
+   color: chartreuse;
+}
+.mac-btn-s:hover{
+    color: cornflowerblue;
+}
+.last-paragraph{
+    /* border: 1px solid red;
+    margin-top: 15%;
+    height: 80px; */
+    height: 100px;
+  
+    padding: 20px;
+    background-color: whitesmoke;
+    color: whitesmoke; 
+} 
+.logo-svg{
+  position: relative;
+  height: 60%;
+  left: 9%;
+  color: black;
+}
+.my-h2{
+    position: relative;
+    left: 20%;
+    bottom:55%;
+    color: black;
+}
+.sportify{
+    color: aqua;
+    position: relative;
+    left: 19%;
+    bottom:40%;
+    
+}
+.finance{
+    position: relative;
+    left: 32%;
+    bottom:100%;
+    color: black;
+}
+.page-55{
+    position: relative;
+    left: 35%;
+    bottom:85%;
+    color: black;
+}
+.send-feedback{
+    position: relative;
+    left: 50%;
+    bottom:145%;
+    color: black;
+}
+.facebook-img{
+    position: relative;
+    left: 80%;
+    bottom:140%;
+}
+.twitter-img{
+    position: relative;
+    left: 81%;
+    bottom:140%;
+}
+.instagram-img{
+    position: relative;
+    left: 82%;
+    bottom:140%;
+}
